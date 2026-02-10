@@ -77,3 +77,31 @@ SPVMS-Final-Submission/
 ├── frontend/          # React.js Application (Dashboards, UI Components)
 ├── README.md          # Agile Documentation
 └── LICENSE            # MIT License File
+
+
+
+⚙️ How to Start the Project
+Prerequisites
+Java JDK 17+
+
+Node.js (v16+)
+
+MySQL Server
+
+Maven
+
+1. Backend Setup
+Navigate to the backend directory: cd backend.
+
+Open src/main/resources/application.properties.
+
+Configure your MySQL credentials:
+
+Run the application:
+
+2. Frontend Setup
+Navigate to the frontend directory: cd frontend.
+
+Install all required dependencies:
+
+Launch the React development server:
